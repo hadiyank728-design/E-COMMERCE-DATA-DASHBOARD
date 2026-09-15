@@ -1,17 +1,7 @@
 # E-COMMERCE-DATA-DASHBOARD
 
+
 🛒 E-Commerce Sales Dashboard
-
-<p align="center">
-  <b>📊 Interactive Sales & Business Analytics Dashboard using Microsoft Excel</b>
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Tool-Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white">
-  <img src="https://img.shields.io/badge/Project-Data%20Analytics-blue?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Status-Completed-success?style=for-the-badge">
-</p>
-
-⸻
 
 ✨ About the Project
 
@@ -120,6 +110,12 @@ The dataset contains e-commerce transaction details including:
 Order ID • Order Date • Customer ID • Customer Type • Product ID • Product Name • Category • Brand • City • Region • State • Sales Channel • Units • Unit Price • Discount % • Sales Amount • Profit • Order Status • Payment Mode • Shipping Type • Customer Rating
 
 ⸻
+
+
+## 📸 Dashboard Screenshot
+
+!<img width="717" height="566" alt="Screenshot 2026-09-09 092845" src="https://github.com/user-attachments/assets/676958f0-963b-4586-a381-7b99a9c96701" />
+
 
 🔍 Business Questions Answered
 
